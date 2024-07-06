@@ -186,3 +186,5 @@ Closing webCam
 cam.release()
 ```
 ***
+## Future Plan
+  -Currently it requires to change the code based on the number of hands Working to fix this issue
