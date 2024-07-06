@@ -75,7 +75,7 @@ Minimum confidence value ([0.0, 1.0]) from the landmark-tracking model for the h
 
 
 
-## 📝 CODE EXPLANATION
+## CODE EXPLANATION
 <b>Importing Libraries</b>
 ```py
 import cv2
